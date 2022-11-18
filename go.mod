@@ -1,4 +1,4 @@
-module github.com/experyou/rest
+module github.com/expertyou/rest
 
 go 1.18
 
